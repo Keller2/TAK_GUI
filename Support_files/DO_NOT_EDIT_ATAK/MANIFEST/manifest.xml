@@ -1,0 +1,14 @@
+<MissionPackageManifest version="2">
+  <Configuration>
+    <Parameter name="uid" value="UID-HERE"/>
+    <Parameter name="name" value="Tak Server"/>
+    <Parameter name="onReceiveDelete" value="true"/>
+  </Configuration>
+  <Contents>
+    <Content ignore="false" zipEntry="certs/config.pref"/>
+    <Content ignore="false" zipEntry="certs/server.p12"/>
+    <Content ignore="false" zipEntry="certs/atak.p12"/>
+    <Content ignore="false" zipEntry="maps/sGOOGLEHybrid.xml"/>
+
+  </Contents>
+</MissionPackageManifest>
