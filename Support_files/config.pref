@@ -2,15 +2,18 @@
 <preferences>
   <preference version="1" name="cot_streams">
     <entry key="count" class="class java.lang.Integer">1</entry>
-    <entry key="description0" class="class java.lang.String">SERVER URL OR IP</entry>
+    <entry key="description0" class="class java.lang.String">TAK Server</entry>
     <entry key="enabled0" class="class java.lang.Boolean">true</entry>
-    <entry key="connectString0" class="class java.lang.String">SERVER URL OR IP:8089:ssl</entry>
+    <entry key="connectString0" class="class java.lang.String">REPLACE:8089:ssl</entry>
   </preference>
   <preference version="1" name="com.atakmap.app_preferences">
     <entry key="displayServerConnectionWidget" class="class java.lang.Boolean">true</entry>
-    <entry key="caLocation" class="class java.lang.String">server.p12</entry>
+    <entry key="caLocation" class="class java.lang.String">cert/server.p12</entry>
     <entry key="caPassword" class="class java.lang.String">atakatak</entry>
     <entry key="clientPassword" class="class java.lang.String">atakatak</entry>
-    <entry key="certificateLocation" class="class java.lang.String">iphone.p12</entry>
+    <entry key="certificateLocation" class="class java.lang.String">cert/atak.p12</entry>
+    <entry key="locationCallsign" class="class java.lang.String">REPLACE</entry>
+    <entry key="locationTeam" class="class java.lang.String">Blue</entry>
+    <entry key="atakRoleType" class="class java.lang.String">Team Lead</entry>
   </preference>
 </preferences>

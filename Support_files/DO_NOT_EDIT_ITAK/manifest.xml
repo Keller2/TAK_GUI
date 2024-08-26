@@ -1,7 +1,7 @@
 <MissionPackageManifest version="2">
        <Configuration>
           <Parameter name="uid" value="Client"/>
-          <Parameter name="name" value="ITAK"/>
+          <Parameter name="name" value="SERVER URL OR IP"/>
 	    <Parameter name="onReceiveDelete" value="true"/>
        </Configuration>
        <Contents>

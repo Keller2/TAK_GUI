@@ -4,7 +4,7 @@
     <entry key="count" class="class java.lang.Integer">1</entry>
     <entry key="description0" class="class java.lang.String">TAK Server</entry>
     <entry key="enabled0" class="class java.lang.Boolean">true</entry>
-    <entry key="connectString0" class="class java.lang.String">url:8089:ssl</entry>
+    <entry key="connectString0" class="class java.lang.String">SERVER URL OR IP:8089:ssl</entry>
   </preference>
   <preference version="1" name="com.atakmap.app_preferences">
     <entry key="displayServerConnectionWidget" class="class java.lang.Boolean">true</entry>

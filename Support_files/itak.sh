@@ -10,13 +10,6 @@ echo "Username:" $username " this should be your PC username or it will cause er
 echo "Creating user " $arg1
 echo "On Team " $arg2
 
-# Prompt for the first argument
-
-#read -p "Enter Device Name: " arg1
-
-#Old method that allows you to enter name in...
-#read -p "Enter Cadet Name (Last-First Inital Ex. Keller-B): " arg1
-
 # Switch to the target directory
 cd /opt/tak/certs/
 
